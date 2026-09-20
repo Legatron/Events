@@ -1,3 +1,3 @@
 # Webpack5
 
-![CI](https://github.com/Legatron/env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Legatron/Events/actions/workflows/web.yml/badge.svg)
